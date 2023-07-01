@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a8f8c25.css",
+    "main.js": "/static/js/main.7b6a395e.js",
+    "static/media/Logo(5)Preloader.gif": "/static/media/Logo(5)Preloader.ee29efd11847a1c48b53.gif",
+    "static/media/sign.png": "/static/media/sign.bc39fbaef5620232fbc7.png",
+    "static/media/office.jpg": "/static/media/office.bac12b811feb0766e355.jpg",
+    "static/media/testimonial3.jpg": "/static/media/testimonial3.0cce2ec1ece7b397d1ef.jpg",
+    "static/media/testimonial1.jpg": "/static/media/testimonial1.1ccac251d6344cc32bf5.jpg",
+    "static/media/testimonial2.jpg": "/static/media/testimonial2.8406a170781348993e5e.jpg",
+    "static/media/Logo(6).png": "/static/media/Logo(6).a10e206b5afb4c92337b.png",
+    "index.html": "/index.html",
+    "main.4a8f8c25.css.map": "/static/css/main.4a8f8c25.css.map",
+    "main.7b6a395e.js.map": "/static/js/main.7b6a395e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a8f8c25.css",
+    "static/js/main.7b6a395e.js"
+  ]
+}
