@@ -85,6 +85,7 @@ const Shop = () => {
         const searchParams = new URLSearchParams(location.search);
         setSearchQuery(searchParams.get("search"));
 
+        window.scrollTo({ top: 0, behavior: "smooth" });
     }, [location.search]);
 
     const handleObserver = (entries) => {
