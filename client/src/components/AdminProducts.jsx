@@ -335,6 +335,7 @@ const AdminProducts = () => {
               className='form-control input-field'
               id='details'
               name='details'
+              placeholder='{"Type": "Round Neck", "Sleeve": "Full Sleeve", "Fit": "Regular", "Fabric": "Cotton"}'
               required
               value={product.details}
               onChange={handleChange}
@@ -390,7 +391,7 @@ const AdminProducts = () => {
             </div>
           </div>
           <div className="col-12 mb-3">
-            <label htmlFor="sortBy">Details</label>
+            <label htmlFor="sortBy">Tags</label>
             <select className="form-control input-field" id='sortBy' name='sortBy' value={product.sortBy} onChange={handleChange}>
               {sortBy.map((option) => (
                 <option key={option} value={option.toLowerCase()}>{option}</option>
